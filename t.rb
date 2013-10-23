@@ -2,7 +2,7 @@ another diff and merge test
 
 
 
-
+remote conflict
 
 local conflict
 
