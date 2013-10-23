@@ -1,1 +1,5 @@
 Testing diff and merge
+
+Line 1 to test
+
+Line 2 to test
