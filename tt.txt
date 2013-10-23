@@ -5,7 +5,7 @@ Line 1 to test
 added another local line here
 
 
-
+remote conflict
 
 
 Line 10 here
